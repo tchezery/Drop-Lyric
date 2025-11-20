@@ -1,0 +1,15 @@
+################### C# .NET Ignores
+bin/
+obj/
+.vs/
+*.user
+
+
+
+################### Flutter Ignores
+/build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
