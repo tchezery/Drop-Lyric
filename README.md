@@ -1,7 +1,7 @@
 # 🎵 DropLyric
 **Learn English through Music & Active Listening**
 
-[About](#-about) • [Features](#-key-features) • [Tech Stack](#-tech-stack) • [Getting Started](#-getting-started) • [Roadmap](#-roadmap)
+[About](#-about) • [Features](#-key-features) • [Tech Stack](#-tech-stack) • [Getting Started](#-getting-started) • [Roadmap](#-roadmap) • [For Learners](#-for-learners)
 
 ## 📖 About
 
@@ -112,6 +112,43 @@ flutter run
 [ ] API: Connect to Genius/Musixmatch for dynamic lyrics.
 
 [ ] UX: "Tap to Reveal" functionality.
+
+---
+
+## 💪 For Learners
+
+**Welcome to your learning journey!** 
+
+If you're here to learn about integrating Flutter and .NET, you've chosen an exciting path. This project combines the best of both worlds:
+
+- **Flutter** (Dart) for building beautiful, cross-platform mobile interfaces
+- **.NET 8** (C#) for creating robust, scalable backend services
+
+### Why This Integration Matters
+
+Learning to connect a mobile frontend with a backend API is a **real-world skill** that challenges you to:
+
+- 🌉 **Bridge two ecosystems** - Understanding how different technologies communicate
+- 🔄 **Master HTTP/REST APIs** - The foundation of modern app development
+- 🎯 **Solve practical problems** - Like helping people learn languages through music
+- 🚀 **Think full-stack** - Seeing the complete picture from UI to data
+
+### Your Journey Ahead
+
+Starting is often the hardest part, but you're already here! Remember:
+
+- **Every expert was once a beginner** - Even experienced developers started somewhere
+- **Each error is a lesson** - Debugging teaches you more than success sometimes
+- **Building something meaningful** - You're not just learning syntax, you're creating value
+- **The integration challenge** - Working with multiple technologies makes you versatile
+
+This project is more than code—it's a **real-world problem** (language learning) solved with modern tools. By exploring how the Flutter app communicates with the .NET backend, you'll gain skills that transfer to countless other projects.
+
+**Keep going. You've got this! 🎯**
+
+> *"The expert in anything was once a beginner."* — Helen Hayes
+
+---
 
 # 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
