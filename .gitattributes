@@ -1,0 +1,16 @@
+# Ignorar HTML e CSS nas estatísticas (Considera como arquivo gerado/vendor)
+*.html linguist-vendored
+*.css linguist-vendored
+*.js linguist-vendored
+
+# Ignorar código nativo gerado pelo Flutter (Windows/Linux/Android)
+# Isso remove o C++, CMake e HTML extra das estatísticas
+mobile_app/windows/** linguist-vendored
+mobile_app/linux/** linguist-vendored
+mobile_app/android/** linguist-vendored
+mobile_app/ios/** linguist-vendored
+mobile_app/web/** linguist-vendored
+
+# Se tiver arquivos de build do .NET que subiram sem querer
+DropLyric/bin/** linguist-vendored
+DropLyric/obj/** linguist-vendored
