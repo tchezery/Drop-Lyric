@@ -1,7 +1,8 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-class HomePage extends StatelessWidget {
-  const HomePage({super.key});
+class SearchPage extends StatelessWidget {
+  const SearchPage({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -10,7 +11,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Droplyric',
+          'Search',
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
       ),
@@ -19,13 +20,13 @@ class HomePage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Icon(
-              Icons.music_note_rounded,
+              CupertinoIcons.search,
               size: 64,
               color: theme.colorScheme.primary,
             ),
             const SizedBox(height: 16),
             Text(
-              'Home Feed',
+              'Search Lyrics & Artists',
               style: theme.textTheme.headlineSmall,
             ),
           ],
